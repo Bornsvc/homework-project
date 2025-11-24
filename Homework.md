@@ -3,7 +3,7 @@
 
 
 
-![pic.png | 300](./image/pic19-2.png)
+![](./pic/1.jpg)
 
 
 
