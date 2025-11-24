@@ -1,5 +1,5 @@
 1. Arduino Uno Board
-![Screenshot](./images/pic19-2.png)
+![pic.png | 300](./images/pic19-2.png)
 ມັນແມ່ນຫຍັງ:
 ບອດ microcontroller ໃຊ້ສຳລັບຄວບຄຸມອຸປະກອນຕ່າງໆ, ປະມວນຜົນສັນຍານ sensor ແລະສັ່ງງານອຸປະກອນ output.
 
